@@ -49,9 +49,9 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-Tabulation for Load Test:
+Tabulation for Load Test:<img width="1878" height="820" alt="Screenshot 2026-10-07 152904" src="https://github.com/user-attachments/assets/ab25daf9-cb7b-409b-80c0-2ae4ed76a5ca" />
+Model graph:<img width="1661" height="582" alt="Screenshot 2026-10-07 152920" src="https://github.com/user-attachments/assets/eda98f80-0f5b-4d36-82f6-cf5aa6feddb0" />
 
-Model graph:
 Calculation: 
 
 Open circuit characteristics
