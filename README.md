@@ -55,6 +55,7 @@ Tabulation for Load Test:<img width="1878" height="820" alt="Screenshot 2026-10-
 Model graph:<img width="1661" height="582" alt="Screenshot 2026-10-07 152920" src="https://github.com/user-attachments/assets/eda98f80-0f5b-4d36-82f6-cf5aa6feddb0" />
 
 MAGNETISATION CHARACTERISTICS:
+
 OPEN CIRCUIT:<img width="1715" height="755" alt="Screenshot 2026-10-07 153406" src="https://github.com/user-attachments/assets/4cc11665-791f-47b4-9419-df7fc6e3a48d" />
 
 TABULATION:<img width="380" height="377" alt="Screenshot 2026-10-15 084019" src="https://github.com/user-attachments/assets/7f14910d-cb93-4f50-a718-62b243742960" />
