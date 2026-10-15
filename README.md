@@ -1,8 +1,8 @@
 # EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+EXPT NO: 2 OCC AND LOAD CHARACTERISTICS AND MAGNETISATION CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
-To conduct load test on separately excited generators and to obtain the characteristics
+To conduct load test and magnetisation test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
 
@@ -46,18 +46,24 @@ Procedure for Load test:
 5.   The ammeter and voltmeter readings are observed for different loads up to the rated current by closing the DPST switch 2.
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
-
+LOAD CHARACTERISTICS OF DC MOTOR:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:<img width="1878" height="820" alt="Screenshot 2026-10-07 152904" src="https://github.com/user-attachments/assets/ab25daf9-cb7b-409b-80c0-2ae4ed76a5ca" />
+<img width="336" height="382" alt="WhatsApp Image 2026-10-15 at 8 24 46 AM" src="https://github.com/user-attachments/assets/6ba3a9c0-fe32-4334-b6f3-13b36656e73b" />
+
 Model graph:<img width="1661" height="582" alt="Screenshot 2026-10-07 152920" src="https://github.com/user-attachments/assets/eda98f80-0f5b-4d36-82f6-cf5aa6feddb0" />
 
-Calculation: 
+MAGNETISATION CHARACTERISTICS:
+OPEN CIRCUIT:<img width="1715" height="755" alt="Screenshot 2026-10-07 153406" src="https://github.com/user-attachments/assets/4cc11665-791f-47b4-9419-df7fc6e3a48d" />
 
-Open circuit characteristics
+TABULATION:<img width="380" height="377" alt="Screenshot 2026-10-15 084019" src="https://github.com/user-attachments/assets/7f14910d-cb93-4f50-a718-62b243742960" />
 
-  
-Load Characteristics:
+MODEL GRAPH:<img width="743" height="361" alt="Screenshot 2026-10-15 084145" src="https://github.com/user-attachments/assets/8184773a-75fb-488d-9dce-2389af404dac" />
+
+
+
+
  
 Result:
-The load test on separately excited generators and to obtain the characteristics was verified.
+The load test and magnetisation test on separately excited generators and to obtain the characteristics was verified.
